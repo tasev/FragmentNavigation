@@ -19,7 +19,9 @@
         android:text="@string/text_2"/>
 
     <ImageView
-        android:layout_width="100dp"
-        android:layout_height="@dimen/image_height" />
+        android:layout_width="@dimen/image_height"
+        android:layout_height="@dimen/image_height"
+        android:src="@drawable/brainster_and_code"
+        android:layout_alignParentRight="true"/>
 
 </RelativeLayout>
