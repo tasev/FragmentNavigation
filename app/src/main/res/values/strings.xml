@@ -11,4 +11,5 @@
 
     <string name="test_button_4">Test Button 1</string>
     <string name="text_4">text 1</string>
+    <string name="this_is_fragment">This is Fragment 1</string>
 </resources>
