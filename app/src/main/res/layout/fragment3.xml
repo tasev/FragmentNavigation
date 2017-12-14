@@ -18,4 +18,12 @@
         android:layout_centerInParent="true"
         android:text="@string/text_3"/>
 
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="@dimen/image_height"
+        android:layout_height="@dimen/image_height"
+        android:src="@drawable/brainster_and_code"
+        />
+
+
 </RelativeLayout>
